@@ -145,12 +145,6 @@ Frontend runs at [http://localhost:5173](http://localhost:5173).
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Acknowledgements
 
 - Inspired by modern AI recruitment workflows.
